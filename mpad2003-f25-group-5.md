@@ -1,4 +1,4 @@
-November 5, 2025<br>
+**November 5, 2025**<br>
 **Course Code & Course Name**<br>
 **Student's First Name & Last Name**<br>
 **Presented to Jean-Sébastien Marier**<br>
