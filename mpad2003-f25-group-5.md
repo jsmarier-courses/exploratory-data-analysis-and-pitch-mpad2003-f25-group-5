@@ -1,6 +1,6 @@
 **November 5, 2025**<br>
-**Course Code & Course Name**<br>
-**Student's First Name & Last Name**<br>
+**MPAD2003 & Introductory Data Storytelling**<br>
+**Erica Lee, Alex Overton, Angus Mclean**<br>
 **Presented to Jean-Sébastien Marier**<br>
 
 # Exploratory Data Analysis (EDA) & Pitch
