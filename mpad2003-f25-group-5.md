@@ -99,11 +99,25 @@ For next steps, it would be useful to compare these totals to each ward’s over
 
 ## 4. Potential Story
 
-Insert text here.
+The potential story that we could tell with this data is that certain wards might have larger deaf communities due to access to support structures, such as schools or community networks for the deaf. In order to “tell” this story, we would likely need other resources such as maps of support centers for the deaf, testimony from involved individuals, and possibly statistics from sources such as the city website. 
+
+For the testimony we could interview members of the deaf community who live in districts with a large number of deaf people in them to see what they find appealing about the area,, or conversely we could interview in smaller communities to see what they feel is lacking. We could also interview people who work at support centers or schools for the deaf in order to see what they feel they do to make the area attractive. We could also interview the head of the ASL minor at Carleton, who used to be the head of the Ontario Association for the Deaf.
+
+There are also many online resources that can help provide more context to the story, such as news articles, studies, or city releases from the area. This additional context and data could help flesh out and verify the story, allowing it to be more clear and have a larger impact. Some potential sources that could match this criteria are:
+
+An article about trying to get sign language recognized as an official Canadian language in Ottawa: https://capitalcurrent.ca/ottawas-deaf-community-calls-for-official-recognition-of-sign-language/
+
+An article about an event recognizing Ottawa’s deaf community on Parliament Hill: https://charlatan.ca/ottawa-raises-deaf-flag/
+
+An article about opportunities in education for the deaf in Ottawa: https://www.ocdsb.ca/programs-learning/special-education/special-education-elementary/elementary-special-education/deaf-hh 
 
 ## 5. Conclusion
 
-Insert text here.
+While completing this assignment, one aspect that we found challenging was that the data had a small error in it at the start, and was in need of cleaning. If the error had not been noticed and we went ahead with cleaning the data, it could have resulted in it getting lost and messing up the data and results, which would have been unfortunate for our analysis. Thankfully it was found and rectified before the cleaning process, which also helped clarify the data. By trimming down on blank spaces, uneven rows and columns, and repetitive labelling, we were able to clean the data down to a concise spreadsheet that made it clearer to view the data pertinent to our goals.
+
+An aspect of this assignment that we found rewarding was that once the data was cleared some clear patterns emerge from the data, especially once it was put in charts and tables. This would make it easier to answer our main question, as clear patterns are easier to draw conclusions from.
+
+One gap in my own knowledge that I have identified is that I do not really have any preexisting knowledge of the deaf community in Ottawa, and did not really know where to look first for supplementary materials for this assignment. I feel that I have rectified this somewhat, although I feel there is still a lot to learn. One thing that could have been done differently on this assignment is that we maybe could have committed the project at more regular intervals, although I am unsure if this would have impacted the final result at all or not.
 
 ## 6. References
 
