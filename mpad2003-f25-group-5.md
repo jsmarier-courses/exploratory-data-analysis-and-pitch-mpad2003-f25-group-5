@@ -5,7 +5,7 @@
 
 # Exploratory Data Analysis (EDA) & Pitch
 
-<!-- Use one hashtag symbol (`#`) to create a level 1 heading like this one.
+ <!--Use one hashtag symbol (`#`) to create a level 1 heading like this one.
 
 ## Foreword
 
@@ -20,12 +20,12 @@ I have been assigning different versions of this project to my digital journalis
 
 Did you notice how to create a hyperlink? In Markdown, we put the clickable text between square brackets and the actual URL between parentheses.
 
-And to create an unordered list, we simply put a star (`*`) before each item. -->
+And to create an unordered list, we simply put a star (`*`) before each item.-->
 
 ## Introduction
 For this assignment, my team and I will clean and analyze Statistics Canada’s Long Form Census, specifically the Ward Data for the city of Ottawa, ON, from 2021. We will create visualizations and charts to help clearly communicate a narrative whose origins were found within the data.  
 
-This data was collected as a sample, surveying only 25% of households in Ottawa. The data, available at https://open.ottawa.ca/datasets/ottawa::2021-long-form-census-ward-data/explore, was most recently updated on October 19th, 2025 and was first published on November 29th, 2023. The data provides insight into the lives of Ottawans through many aspects of their lives, including the language(s) spoken at home.
+This data was collected as a sample, surveying only 25% of households in Ottawa. The data, available [here](https://open.ottawa.ca/datasets/ottawa::2021-long-form-census-ward-data/explore), was most recently updated on October 19th, 2025 and was first published on November 29th, 2023. The data provides insight into the lives of Ottawans through many aspects of their lives, including the language(s) spoken at home.
 
 Our process will be broken up into the following sections:
 - **Getting Data**
@@ -116,9 +116,9 @@ For testimony, we could interview members of the Deaf community who live in dist
 
 Many online resources can help provide more context to the story, such as news articles, studies, or city releases from the area. This additional context and data could help us flesh out, verify and add a personal touch to the story. This allows it to be clearer and more impactful. Some potential sources that could align with these criteria are:
 
-An article about Ottawan Deaf advocacy for sign languages to be recognized as official Canadian languages in Ottawa before it was recognized under the Accessible Canada Act in 2019: https://capitalcurrent.ca/ottawas-deaf-community-calls-for-official-recognition-of-sign-language/
-An article about an event recognizing Ottawa’s Deaf community on Parliament Hill during International Week of Deaf People (IWDP): https://charlatan.ca/ottawa-raises-deaf-flag/
-An article about opportunities in education for the Deaf in Ottawa: https://www.ocdsb.ca/programs-learning/special-education/special-education-elementary/elementary-special-education/deaf-hh 
+- [An article about Ottawan Deaf advocacy for sign languages to be recognized as official Canadian languages in Ottawa before it was recognized under the Accessible Canada Act in 2019](https://capitalcurrent.ca/ottawas-deaf-community-calls-for-official-recognition-of-sign-language/)
+- [An article about an event recognizing Ottawa’s Deaf community on Parliament Hill during International Week of Deaf People (IWDP)](https://charlatan.ca/ottawa-raises-deaf-flag/)
+- [An article about opportunities in education for the Deaf in Ottawa](https://www.ocdsb.ca/programs-learning/special-education/special-education-elementary/elementary-special-education/deaf-hh)
 
 ## Conclusion
 
@@ -129,10 +129,9 @@ An aspect of this assignment that we found rewarding was that once the data was 
 One gap in my own knowledge that I have identified is that I do not really have any preexisting knowledge of the Deaf community in Ottawa, and I did not really know where to look first for supplementary materials for this assignment. I feel that I have rectified this somewhat, although I feel there is still a lot to learn. One thing that could have been done differently on this assignment is that we could have committed the project at more regular intervals, although I am unsure if this would have impacted the final result at all or not.
 
 ## References
+Grieve, N. (2024, May 4). Convert rows to columns in Google Sheets[Video]. YouTube. https://www.youtube.com/watch?v=9kc0PUOuCJw 
 
 Jean-Sébastien, M. (2021, October 9). Cleaning Data in Google Sheets[Video]. YouTube. https://youtu.be/U4yigiawIEU?si=UkYborn3k3y-Q3qo 
-
-Grieve, N. (2024, May 4). Convert rows to columns in Google Sheets[Video]. YouTube. https://www.youtube.com/watch?v=9kc0PUOuCJw 
 
 Jean-Sébastien, M. (2021, October 19). Using Pivot Tables in Google Sheets[Video]. YouTube. https://youtu.be/cCVl0h-9HmU?si=hLPD51qubB8fzC_x 
 
