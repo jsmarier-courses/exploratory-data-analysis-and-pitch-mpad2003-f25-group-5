@@ -25,7 +25,7 @@ And to create an unordered list, we simply put a star (`*`) before each item.-->
 ## Introduction
 For this assignment, my team and I will clean and analyze Statistics Canada’s Long Form Census, specifically the Ward Data for the city of Ottawa, ON, from 2021. We will create visualizations and charts to help clearly communicate a narrative whose origins were found within the data.  
 
-This data was collected as a sample, surveying only 25% of households in Ottawa. The data, available [here](https://open.ottawa.ca/datasets/ottawa::2021-long-form-census-ward-data/explore), was most recently updated on October 19th, 2025 and was first published on November 29th, 2023. The data provides insight into the lives of Ottawans through many aspects of their lives, including the language(s) spoken at home.
+This data was collected as a sample, surveying only 25% of households in Ottawa. The data, available [online here](https://open.ottawa.ca/datasets/ottawa::2021-long-form-census-ward-data/explore), was most recently updated on October 19th, 2025 and was first published on November 29th, 2023. Here is the CSV file we used during our EDA. The data provides insight into the lives of Ottawans through many aspects of their lives, including the language(s) spoken at home.
 
 Our process will be broken up into the following sections:
 - **Getting Data**
