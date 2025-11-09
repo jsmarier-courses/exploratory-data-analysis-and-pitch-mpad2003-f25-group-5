@@ -5,7 +5,7 @@
 
 # Exploratory Data Analysis (EDA) & Pitch
 
-Use one hashtag symbol (`#`) to create a level 1 heading like this one.
+<!-- Use one hashtag symbol (`#`) to create a level 1 heading like this one.
 
 ## Foreword
 
@@ -20,7 +20,7 @@ I have been assigning different versions of this project to my digital journalis
 
 Did you notice how to create a hyperlink? In Markdown, we put the clickable text between square brackets and the actual URL between parentheses.
 
-And to create an unordered list, we simply put a star (`*`) before each item.
+And to create an unordered list, we simply put a star (`*`) before each item. -->
 
 ## Introduction
 For this assignment, my team and I will clean and analyze Statistics Canada’s Long Form Census, specifically the Ward Data for the city of Ottawa, ON, from 2021. We will create visualizations and charts to help clearly communicate a narrative whose origins were found within the data.  
@@ -28,15 +28,15 @@ For this assignment, my team and I will clean and analyze Statistics Canada’s 
 This data was collected as a sample, surveying only 25% of households in Ottawa. The data, available at https://open.ottawa.ca/datasets/ottawa::2021-long-form-census-ward-data/explore, was most recently updated on October 19th, 2025 and was first published on November 29th, 2023. The data provides insight into the lives of Ottawans through many aspects of their lives, including the language(s) spoken at home.
 
 Our process will be broken up into the following sections:
-- Getting Data
-- Understanding Data
-- Our Potential Story
-- Conclusion
+- **Getting Data**
+- **Understanding Data**
+- **Our Potential Story**
+- **Conclusion**
 
 
 ## Getting Data
 
-Use two hashtag symbols (`##`) to create a level 2 heading like this one.
+ Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 
 To include a screen capture, use the sample code below. Your images should be saved in the same folder as your `.md` file.
 
