@@ -22,11 +22,19 @@ Did you notice how to create a hyperlink? In Markdown, we put the clickable text
 
 And to create an unordered list, we simply put a star (`*`) before each item.
 
-## 1. Introduction
+## Introduction
+For this assignment, my team and I will clean and analyze Statistics Canada’s Long Form Census, specifically the Ward Data for the city of Ottawa, ON, from 2021. We will create visualizations and charts to help clearly communicate a narrative whose origins were found within the data.  
 
-Insert text here.
+This data was collected as a sample, surveying only 25% of households in Ottawa. The data, available at https://open.ottawa.ca/datasets/ottawa::2021-long-form-census-ward-data/explore, was most recently updated on October 19th, 2025 and was first published on November 29th, 2023. The data provides insight into the lives of Ottawans through many aspects of their lives, including the language(s) spoken at home.
 
-## 2. Getting Data
+Our process will be broken up into the following sections:
+- Getting Data
+- Understanding Data
+- Our Potential Story
+- Conclusion
+
+
+## Getting Data
 
 Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 
@@ -46,9 +54,9 @@ To include a screen capture, use the sample code below. Your images should be sa
 ```
 This also shows how to create an ordered list. Simply put `1.` before each item.
 
-## 3. Understanding Data
+## Understanding Data
 
-### 3.1. VIMO Analysis
+### VIMO Analysis
 
 Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.
 
@@ -60,7 +68,7 @@ Support your claims by citing relevant sources. Please follow [APA guidelines fo
 
 As Cairo (2016) argues, a data visualization should be truthful...
 
-### 3.2. Cleaning Data
+### Cleaning Data
 
 Before beginning our analysis, the dataset needed to be cleaned in order to make the data more consistent and easier to follow. There were several unnecessary rows, some extra whitespace, and lengthy text entries that needed to be adjusted and reorganized. I used Google Sheets to address these issues and followed the cleaning methods we learned during this course.
 
@@ -78,7 +86,7 @@ Here is what the dataset looked like after being cleaned:
 
 ![](cleaned-data-screen-capture.png)<br>
 
-### 3.3. Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
 I made a pivot table that shows the sum of all signers across each ward in Ottawa, along with the specific sum of just the ASL and QSL signers, in order to see which wards have the highest number of total signers, as well as compare the number of ASL and QSL signers there are in each ward. If certain wards stand out, that might suggest that the deaf community participation could indeed influence residential clustering.
 
@@ -98,7 +106,7 @@ The potential story here is that certain wards might have stronger Deaf or signi
 For next steps, it would be useful to compare these totals to each ward’s overall population to see if the high counts actually represent larger Deaf communities or just larger ward populations. Calculating signers per capita could reveal stronger concentration patterns. It may also be worth exploring demographic or geographic factors, like proximity to schools for the Deaf or community centers, to understand why certain wards have higher totals.
 
 
-## 4. Potential Story
+## Potential Story
 
 The potential story that we could tell with this data is that certain wards might have larger Deaf communities due to access to support structures, such as schools or community networks for the Deaf. In order to “tell” this story, we would likely need other resources such as maps of support centers for the Deaf, testimony from involved individuals, and possibly statistics from sources such as the city website. 
 
@@ -110,7 +118,7 @@ An article about Ottawan Deaf advocacy for sign languages to be recognized as of
 An article about an event recognizing Ottawa’s Deaf community on Parliament Hill during International Week of Deaf People (IWDP): https://charlatan.ca/ottawa-raises-deaf-flag/
 An article about opportunities in education for the Deaf in Ottawa: https://www.ocdsb.ca/programs-learning/special-education/special-education-elementary/elementary-special-education/deaf-hh 
 
-## 5. Conclusion
+## Conclusion
 
 While completing this assignment, one aspect that we found challenging was that the data had a small error in it at the start, and was in need of cleaning. If the error had not been noticed and we had gone ahead with cleaning the data, it could have resulted in it getting lost and messing up the data and results, which would have been unfortunate for our analysis. Thankfully, it was found and rectified before the cleaning process, which also helped clarify the data. By trimming down on blank spaces, uneven rows and columns, and repetitive labelling, we were able to clean the data down to a concise spreadsheet that made it clearer to view the data pertinent to our goals.
 
@@ -118,7 +126,7 @@ An aspect of this assignment that we found rewarding was that once the data was 
 
 One gap in my own knowledge that I have identified is that I do not really have any preexisting knowledge of the Deaf community in Ottawa, and I did not really know where to look first for supplementary materials for this assignment. I feel that I have rectified this somewhat, although I feel there is still a lot to learn. One thing that could have been done differently on this assignment is that we could have committed the project at more regular intervals, although I am unsure if this would have impacted the final result at all or not.
 
-## 6. References
+## References
 
 Jean-Sébastien, M. (2021, October 9). Cleaning Data in Google Sheets[Video]. YouTube. https://youtu.be/U4yigiawIEU?si=UkYborn3k3y-Q3qo 
 
