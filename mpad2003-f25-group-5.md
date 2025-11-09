@@ -61,7 +61,7 @@ To import this data into Google Sheets:
 1. Go to Open Ottawa’s page for [this particular dataset](https://open.ottawa.ca/datasets/8f75667abca94de8a7d4c467c3bc6f81/explore)
 2. Download the data; it is available as a CSV file.
 3. Create a blank spreadsheet in Google Sheets.
-4. Go to File > Import. Select the downloaded file before hitting “Import data”.
+4. Go to File → Import. Select the downloaded file before hitting “Import data”.
 ![](screenshot-after-import-to-google-sheets.png)
 *Figure 2: How the spreadsheet looks after importing the data.*
 
