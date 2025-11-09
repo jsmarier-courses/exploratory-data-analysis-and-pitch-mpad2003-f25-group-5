@@ -1,7 +1,7 @@
-**November 5, 2025**<br>
-**MPAD2003 & Introductory Data Storytelling**<br>
-**Erica Lee, Alex Overton, Angus Mclean**<br>
-**Presented to Jean-Sébastien Marier**<br>
+November 5<sup>th</sup>, 2025<br>
+**MPAD2003: Introductory Data Storytelling**<br>
+**<ins>Erica Lee, Alex Overton, Angus Mclean</ins>**<br>
+*Presented to Jean-Sébastien Marier*<br>
 
 # Exploratory Data Analysis (EDA) & Pitch
 
@@ -36,7 +36,7 @@ Our process will be broken up into the following sections:
 
 ## Getting Data
 
- Use two hashtag symbols (`##`) to create a level 2 heading like this one.
+ <!--Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 
 To include a screen capture, use the sample code below. Your images should be saved in the same folder as your `.md` file.
 
@@ -52,7 +52,21 @@ To include a screen capture, use the sample code below. Your images should be sa
 ``` r
 =IMPORTHTML("https://en.wikipedia.org/wiki/China"; "table", 5)
 ```
-This also shows how to create an ordered list. Simply put `1.` before each item.
+This also shows how to create an ordered list. Simply put `1.` before each item. -->
+To import this data into Google Sheets:
+1. Go to Open Ottawa’s page for [this particular dataset](https://open.ottawa.ca/datasets/8f75667abca94de8a7d4c467c3bc6f81/explore)
+2. Download the data; it is available as a CSV file.
+3. Create a blank spreadsheet in Google Sheets.
+4. Go to File > Import. Select the downloaded file before hitting “Import data”.
+![](screenshot-after-import-to-google-sheets.png)<br>
+
+[Here is a link to our Google Sheet](https://docs.google.com/spreadsheets/d/1Bm7OXJO5cfourgJ5xlKDuFZYEm1oy1jB5kEU_uD9vC4/edit?usp=sharing)
+
+This data set is big, with a total of 2603 rows and 26 columns. Overall, the data looks reasonably clean, but that’s before any analysis has been conducted. We found a small error quickly in B24; the total of the values from the individual wards doesn’t match the total provided in B24.
+
+Column A’s values contain a mix of different types of variables. There’s usually a nominal variable heading the variables below it. For example, A3’s value is “Total - Age groups of the population - 25% sample data”, and then A5:A28 contain specific ranges. Column B contains the data for the entire city, a total of all of the wards’ data. Column B contains a mix of discrete and continuous values. There are continuous values from B85:Z85, which represent the percentage of respondents’ income that is from their employment. There are also discrete values, such as those in B724:Z724, representing the number of people whose mother tongue is American Sign Language. Generally, as the wards move towards the downtown core, the rate of global non-response increases, peaking at 7.60% in the 12th Ward, Rideau-Vanier, a huge increase over the whole city, 3.10%.
+
+We’d like to learn more about the Canadian Deaf community in Ottawa. We can see bubbles of small communities across the different wards that use American Sign Language (ASL), Langue des Signes Québécoise (LSQ) (referred to as “Quebec Sign Language” in the dataset) or Indigenous Sign Languages in their homes; as native Signers and as those who use them as an additional language. We would like to learn more about the history of the Deaf community of Ottawa. Our primary question is “Is participation in the Deaf community a contributing factor in choosing where to live as a Sign Language user?”
 
 ## Understanding Data
 
@@ -110,7 +124,7 @@ For next steps, it would be useful to compare these totals to each ward’s over
 
 ## Potential Story
 
-The potential story that we could tell with this data is that certain wards might have larger Deaf communities due to access to support structures, such as schools or community networks for the Deaf. In order to “tell” this story, we would likely need other resources such as maps of support centers for the Deaf, testimony from involved individuals, and possibly statistics from sources such as the city website. 
+The potential story that we could tell with this data is that certain wards might have larger Deaf communities due to access to support structures, such as schools or community networks for the Deaf. In order to *tell* this story, we would likely need other resources such as maps of support centers for the Deaf, testimony from involved individuals, and possibly statistics from sources such as the city website. 
 
 For testimony, we could interview members of the Deaf community who live in districts with a large number of Deaf people in them to see what they find appealing about the area, or conversely, we could interview in smaller communities to see what they feel is lacking. We could also interview people who work at support centers or schools for the Deaf in order to see what they feel they do to make the area attractive. We could also interview Denise DeShaw,  who used to be the head of the Ontario Association for the Deaf (OAD) and is currently the head of the ASL program at Carleton.
 
