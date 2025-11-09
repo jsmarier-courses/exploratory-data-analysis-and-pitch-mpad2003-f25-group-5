@@ -1,7 +1,1 @@
-## Template for the Exploratory Data Analysis (EDA) & Pitch
-
-Here are the files for the term project of courses JOU4100 Digital Journalism II and JOU4500 Journalisme numérique II at the University of Ottawa, and MPAD2003 Introductory Data Storytelling offered at Carleton University.
-
-## Modèle pour le Analyse exploratoire de données (AED) et proposition
-
-Vous trouverez ici les fichiers pour le projet de session des cours JOU4100 Digital Journalism II et JOU4500 Journalisme numérique II à l'Université d'Ottawa, et du cours MPAD2003 Introductory Data Storytelling offert à l'Université Carleton.
+Using the Long Form 2021 Census Ward Data from Open Ottawa (collected by the Government of Canada with a 25% sample size), we conducted an exploratory data analysis. The data provides insight into many different aspects of the lives of Ottawans. We chose to look into the Deaf community of Ottawa by looking at the data pertaining to the various ways Ottawans use sign languages in their lives. We identified pockets of higher populations of signers in specific wards across the city, allowing us to begin understanding the geographical makeup of signers and/or the Deaf community in Ottawa.
