@@ -140,7 +140,7 @@ The potential story that we could tell with this data is that certain wards migh
 
 For testimony, we could interview members of the Deaf community who live in districts with a large number of Deaf people in them to see what they find appealing about the area, or conversely, we could interview in smaller communities to see what they feel is lacking. We could also interview people who work at support centers or schools for the Deaf in order to see what they feel they do to make the area attractive. We could also interview Denise DeShaw,  who used to be the head of the Ontario Association for the Deaf (OAD) and is currently the ASL program coordinator at Carleton.
 ![](DeniseDeShaw-Coronation-Medal.png)
-*Figure 7: Denise DeShaw receiving the King Charles III Coronation Medal in 2025 (School of Linguistics and Language Studies, 2025).*<br>
+*Figure 7: Denise DeShaw receiving the King Charles III Coronation Medal in 2025 (School of Linguistics and Language Studies & DeShaw, 2025).*<br>
 
 Many online resources can help provide more context to the story, such as news articles, studies, or city releases from the area. This additional context and data could help us flesh out, verify and add a personal touch to the story. This allows it to be clearer and more impactful. Some potential sources that could align with these criteria are:
 
@@ -155,7 +155,7 @@ An aspect of this assignment that we found rewarding was that once the data was 
 
 One gap in my own knowledge that I have identified is that I do not really have any preexisting knowledge of the Deaf community in Ottawa, and I did not really know where to look first for supplementary materials for this assignment.
 ![](ncad-image.jpg)
-*Figure 8: The logo for The National Capital Association of the Deaf (NCAD) from their [Facebook Page](https://www.facebook.com/groups/357082151840326/)*<br>
+*Figure 8: The logo for The National Capital Association of the Deaf (NCAD) from their [Facebook Page](https://www.facebook.com/groups/357082151840326/) (National Capital Association of the Deaf (NCAD) & N, 2025).*<br>
 I feel that I have rectified this somewhat, although I feel there is still a lot to learn. One of our group members is studying ASL at Carleton, though, so we aren't starting completely from scratch. One thing that could have been done differently on this assignment is that we could have committed the project at more regular intervals, although I am unsure if this would have impacted the final result at all or not it may have limited stress around deadlines. We look forward to developing this story further and learning more about the Deaf community in Ottawa!
 
 ## References
@@ -165,4 +165,10 @@ Jean-Sébastien, M. (2021, October 9). Cleaning Data in Google Sheets[Video]. Yo
 
 Jean-Sébastien, M. (2021, October 19). Using Pivot Tables in Google Sheets[Video]. YouTube. https://youtu.be/cCVl0h-9HmU?si=hLPD51qubB8fzC_x 
 
+National Capital Association of the Deaf (NCAD), & N, L. (2025). Logo for The National Capital Association of the Deaf (NCAD). [Online Image]. In Facebook.com. https://www.facebook.com/photo?fbid=10173600098430455&set=gm.1799924434222750
+
+School of Linguistics and Language Studies, & DeShaw, D. (2025). Denise DeShaw Receives Coronation Medal - School of Linguistics and Language Studies [Online Image]. In School of Linguistics and Language Studies. Carleton University. https://carleton.ca/slals/2025/deshaw-receives-coronation-medal/
+
 Statistics Canada. (2021). Coverage Technical Report, Census of Population, 2021: 4. Census data collection. Statcan.gc.ca; Government of Canada. https://www12.statcan.gc.ca/census-recensement/2021/ref/98-303/2021001/chap4-eng.cfm
+
+The City of Ottawa. (2023, October 27). Ward maps and school board zones | City of Ottawa. Ottawa.ca; The City of Ottawa Municipal Government. https://ottawa.ca/en/city-hall/elections/ward-maps-and-school-board-zones#
