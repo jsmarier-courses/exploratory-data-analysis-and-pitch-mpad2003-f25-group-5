@@ -29,6 +29,7 @@ This data was collected as a sample, surveying only 25% of households in Ottawa.
 
 Here is a map of the Wards of Ottawa, taken from [the City of Ottawa](https://ottawa.ca/en/city-hall/elections/ward-maps-and-school-board-zones#) to provide a visual reference to the data henceforth decribed.
 ![](Map_City_Wards.png)
+*Figure 1: A map of the ward boundaries within the City of Ottawa (The City of Ottawa, 2023).*
 
 Our process will be broken up into the following sections:
 - **Getting Data**
@@ -61,7 +62,9 @@ To import this data into Google Sheets:
 2. Download the data; it is available as a CSV file.
 3. Create a blank spreadsheet in Google Sheets.
 4. Go to File > Import. Select the downloaded file before hitting “Import data”.
-![](screenshot-after-import-to-google-sheets.png)<br>
+![](screenshot-after-import-to-google-sheets.png)
+*Figure 2: How the spreadsheet looks after importing the data.*
+
 
 [Here is a link to our Google Sheet](https://docs.google.com/spreadsheets/d/1Bm7OXJO5cfourgJ5xlKDuFZYEm1oy1jB5kEU_uD9vC4/edit?usp=sharing)
 
@@ -77,9 +80,11 @@ We’d like to learn more about the Canadian Deaf community in Ottawa. We can se
 
 <!--Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.-->
 
-For our VIMO analysis, we’re looking specifically at rows 1407 - 1410 of the original data set. Overall, the totals appear to be inconsistent with the specific data. For example, when totalling C1407:Z14:07, which should represent all of the data for the city’s “total - Knowledge of languages for the population in private households,” the number differs from the total in B14:07 by 10. This isn’t a massive discrepancy, but it is especially troubling, given that this data was collected at a sample level and therefore could be exaggerating or exacerbating the scale of discrepancies that would be seen with a complete population survey.
+For our VIMO analysis, we’re looking specifically at rows 1407 - 1410 of the original data set. Overall, the totals appear to be inconsistent with the specific data. For example, when totalling C1407:Z14:07, which should represent all of the data for the city’s “total - Knowledge of languages for the population in private households,” the number differs from the total in B14:07 by 10.
 
 ![](total-knowledge-error-image-for-VIMO.png)
+*Figure 3: The difference between the total shown in B1407, and the automatic SUM function when highlighting figures in Google Sheets.*<br>
+This isn’t a massive discrepancy, but it is especially troubling, given that this data was collected at a sample level and therefore could be exaggerating or exacerbating the scale of discrepancies that would be seen with a complete population survey.
 
 However, as this is government data which was collected for Canada’s 2021 Census, we have a high degree of confidence in its accuracy. The government of Canada notes that to ensure its accuracy via ensuring participation, it will contact “non‑respondent households at key times to remind them to participate in the census and persuade them to complete the questionnaire” (Statistics Canada, 2021). They also adapted their approach for collecting data due to safety concerns caused by the COVID-19 pandemic. They primarily opted for an online questionnaire, alongside other options for those who needed access to them, which showed “many advantages: it increases the number of online responses, a mode that facilitates the flow of questions and real-time response edits; and it reduces non-response, the need for costly follow-up, and the number of questionnaires to register and the amount of data to capture. In the end, it increases the quality of the census” (Statistics Canada, 2021). All of which support the accuracy of the data and help prevent missing, outlying or incorrect entries in the data published.
 
@@ -105,20 +110,22 @@ Lastly, I froze the top row using View → Freeze → 1 Row so that the headers 
 
 Here is what the dataset looked like after being cleaned:
 
-![](cleaned-data-screen-capture.png)<br>
+![](cleaned-data-screen-capture.png)
+*Figure 4: A cleaned version of the dataset, showing Wards and Sign Language user populations.*
+
 
 ### Exploratory Data Analysis (EDA)
 
 I made a pivot table that shows the sum of all signers across each ward in Ottawa, along with the specific sum of just the ASL and QSL signers, in order to see which wards have the highest number of total signers, as well as compare the number of ASL and QSL signers there are in each ward. If certain wards stand out, that might suggest that the deaf community participation could indeed influence residential clustering.
 
-![](signers-pivot-table-screen-capture.png)<br>
-*Figure 2: This pivot table shows the sum of all signers across each ward in Ottawa*
+![](signers-pivot-table-screen-capture.png)
+*Figure 5: This pivot table shows the sum of all signers across each ward in Ottawa.*
 
 After taking the pivot table and turning it into a column chart, it’s fairly easy to see how signers are distributed across wards in the city of Ottawa. The chart shows that signers are spread throughout the city, with totals ranging from 45 to 135 people per ward. The highest numbers appear in Alta-Vista, Knoxdale-Merivale, and Rideau-Vanier, while the lowest are in Capital and West Carleton-March. The data also shows that Ottawa is mainly ASL-dominant, with only 5 wards reporting QSL signers and many wards having small populations of users of other Sign Languages. 
  
 
-![](signers-distribution-chart.png)<br>
-*Figure 3: This exploratory chart shows how signers are distributed throughout Ottawa*
+![](signers-distribution-chart.png)
+*Figure 6: This exploratory chart shows how signers are distributed throughout Ottawa*<br>
 
 Through this analysis, I learned that signing populations are not evenly distributed across Ottawa and that language type (ASL vs. QSL vs. Indigenous or other Sign Languages) could potentially play a role in how communities are formed. I also learned that visual tools such as pivot tables and charts make it easier to spot patterns and think critically about what might cause them.
 
