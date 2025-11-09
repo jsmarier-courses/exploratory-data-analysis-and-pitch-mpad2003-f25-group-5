@@ -27,6 +27,9 @@ For this assignment, my team and I will clean and analyze Statistics Canada’s 
 
 This data was collected as a sample, surveying only 25% of households in Ottawa. The data, available [online here](https://open.ottawa.ca/datasets/ottawa::2021-long-form-census-ward-data/explore), was most recently updated on October 19th, 2025 and was first published on November 29th, 2023. This version is subject to change should the Data be updated. [Here is the CSV file we used during our EDA](2021_Long_Form_Census_-_Ward_Data.csv). The data provides insight into the lives of Ottawans through many aspects of their lives, including the language(s) spoken at home.
 
+Here is a map of the Wards of Ottawa, taken from [the City of Ottawa](https://ottawa.ca/en/city-hall/elections/ward-maps-and-school-board-zones#) to provide a visual reference to the data henceforth decribed.
+![](Map_City_Wards.png)
+
 Our process will be broken up into the following sections:
 - **Getting Data**
 - **Understanding Data**
@@ -75,6 +78,7 @@ We’d like to learn more about the Canadian Deaf community in Ottawa. We can se
 <!--Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.-->
 
 For our VIMO analysis, we’re looking specifically at rows 1407 - 1410 of the original data set. Overall, the totals appear to be inconsistent with the specific data. For example, when totalling C1407:Z14:07, which should represent all of the data for the city’s “total - Knowledge of languages for the population in private households,” the number differs from the total in B14:07 by 10. This isn’t a massive discrepancy, but it is especially troubling, given that this data was collected at a sample level and therefore could be exaggerating or exacerbating the scale of discrepancies that would be seen with a complete population survey.
+
 
 However, as this is government data which was collected for Canada’s 2021 Census, we have a high degree of confidence in its accuracy. The government of Canada notes that to ensure its accuracy via ensuring participation, it will contact “non‑respondent households at key times to remind them to participate in the census and persuade them to complete the questionnaire” (Statistics Canada, 2021). They also adapted their approach for collecting data due to safety concerns caused by the COVID-19 pandemic. They primarily opted for an online questionnaire, alongside other options for those who needed access to them, which showed “many advantages: it increases the number of online responses, a mode that facilitates the flow of questions and real-time response edits; and it reduces non-response, the need for costly follow-up, and the number of questionnaires to register and the amount of data to capture. In the end, it increases the quality of the census” (Statistics Canada, 2021). All of which support the accuracy of the data and help prevent missing, outlying or incorrect entries in the data published.
 
