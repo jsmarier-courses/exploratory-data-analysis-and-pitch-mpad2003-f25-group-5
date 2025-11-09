@@ -125,7 +125,7 @@ After taking the pivot table and turning it into a column chart, it’s fairly e
  
 
 ![](signers-distribution-chart.png)
-*Figure 6: This exploratory chart shows how signers are distributed throughout Ottawa*<br>
+*Figure 6: This exploratory chart shows how signers are distributed throughout Ottawa.*<br>
 
 Through this analysis, I learned that signing populations are not evenly distributed across Ottawa and that language type (ASL vs. QSL vs. Indigenous or other Sign Languages) could potentially play a role in how communities are formed. I also learned that visual tools such as pivot tables and charts make it easier to spot patterns and think critically about what might cause them.
 
@@ -138,7 +138,9 @@ For next steps, it would be useful to compare these totals to each ward’s over
 
 The potential story that we could tell with this data is that certain wards might have larger Deaf communities due to access to support structures, such as schools or community networks for the Deaf. In order to *tell* this story, we would likely need other resources such as maps of support centers for the Deaf, testimony from involved individuals, and possibly statistics from sources such as the city website. 
 
-For testimony, we could interview members of the Deaf community who live in districts with a large number of Deaf people in them to see what they find appealing about the area, or conversely, we could interview in smaller communities to see what they feel is lacking. We could also interview people who work at support centers or schools for the Deaf in order to see what they feel they do to make the area attractive. We could also interview Denise DeShaw,  who used to be the head of the Ontario Association for the Deaf (OAD) and is currently the head of the ASL program at Carleton.
+For testimony, we could interview members of the Deaf community who live in districts with a large number of Deaf people in them to see what they find appealing about the area, or conversely, we could interview in smaller communities to see what they feel is lacking. We could also interview people who work at support centers or schools for the Deaf in order to see what they feel they do to make the area attractive. We could also interview Denise DeShaw,  who used to be the head of the Ontario Association for the Deaf (OAD) and is currently the ASL program coordinator at Carleton.
+![](DeniseDeShaw-Coronation-Medal.png)
+*Figure 7: Denise DeShaw receiving the King Charles III Coronation Medal in 2025 (School of Linguistics and Language Studies, 2025).*<br>
 
 Many online resources can help provide more context to the story, such as news articles, studies, or city releases from the area. This additional context and data could help us flesh out, verify and add a personal touch to the story. This allows it to be clearer and more impactful. Some potential sources that could align with these criteria are:
 
@@ -147,12 +149,14 @@ Many online resources can help provide more context to the story, such as news a
 - [An article about opportunities in education for the Deaf in Ottawa](https://www.ocdsb.ca/programs-learning/special-education/special-education-elementary/elementary-special-education/deaf-hh)
 
 ## Conclusion
-
-While completing this assignment, one aspect that we found challenging was that the data had a small error in it at the start, and was in need of cleaning. If the error had not been noticed and we had gone ahead with cleaning the data, it could have resulted in it getting lost and messing up the data and results, which would have been unfortunate for our analysis. Thankfully, it was found and rectified before the cleaning process, which also helped clarify the data. By trimming down on blank spaces, uneven rows and columns, and repetitive labelling, we were able to clean the data down to a concise spreadsheet that made it clearer to view the data pertinent to our goals.
+While completing this assignment, one aspect that we found challenging was that the data had a small error in it at the start, and was in need of cleaning. If the error had not been noticed and we had not gone ahead with cleaning the data, it potentially could have led to inaccurate  data and results, which would have been a significant blow to the efficacy of our analysis. Thankfully, it was found and rectified during the cleaning process, which also helped clarify the data. By trimming down on blank spaces, uneven rows and columns, and repetitive labelling, we were able to clean the data down to a concise spreadsheet that made it clearer to view the data pertinent to our goals.
 
 An aspect of this assignment that we found rewarding was that once the data was cleared, some clear patterns emerged from the data, especially once it was visualized in charts and tables. This would make it easier to work towards answering our main question, as clear patterns and trends are easier to begin to understand when visualized, as well as aiding in identifying missing information.
 
-One gap in my own knowledge that I have identified is that I do not really have any preexisting knowledge of the Deaf community in Ottawa, and I did not really know where to look first for supplementary materials for this assignment. I feel that I have rectified this somewhat, although I feel there is still a lot to learn. One thing that could have been done differently on this assignment is that we could have committed the project at more regular intervals, although I am unsure if this would have impacted the final result at all or not.
+One gap in my own knowledge that I have identified is that I do not really have any preexisting knowledge of the Deaf community in Ottawa, and I did not really know where to look first for supplementary materials for this assignment.
+![](ncad-image.jpg)
+*Figure 8: The logo for The National Capital Association of the Deaf (NCAD) from their [Facebook Page](https://www.facebook.com/groups/357082151840326/)*<br>
+I feel that I have rectified this somewhat, although I feel there is still a lot to learn. One of our group members is studying ASL at Carleton, though, so we aren't starting completely from scratch. One thing that could have been done differently on this assignment is that we could have committed the project at more regular intervals, although I am unsure if this would have impacted the final result at all or not it may have limited stress around deadlines. We look forward to developing this story further and learning more about the Deaf community in Ottawa!
 
 ## References
 Grieve, N. (2024, May 4). Convert rows to columns in Google Sheets[Video]. YouTube. https://www.youtube.com/watch?v=9kc0PUOuCJw 
