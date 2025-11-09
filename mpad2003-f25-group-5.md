@@ -62,13 +62,13 @@ As Cairo (2016) argues, a data visualization should be truthful...
 
 ### 3.2. Cleaning Data
 
-Before beginning our analysis the dataset needed to be cleaned in order to make the data more consistent and easier to follow. There were several unnecessary rows, some extra whitespace, and lengthy text entries that needed to be adjusted and reorganized. I used Google Sheets to address these issues and followed cleaning methods learned during this course.
+Before beginning our analysis, the dataset needed to be cleaned in order to make the data more consistent and easier to follow. There were several unnecessary rows, some extra whitespace, and lengthy text entries that needed to be adjusted and reorganized. I used Google Sheets to address these issues and followed the cleaning methods we learned during this course.
 
-I began by reviewing the dataset and removing irrelevant data to focus only on the information related to sign language. To do this, I used the find tool (command + f) to search for every row that mentioned sign language and deleted all other entries. This reduced the dataset to only the relevant data which made it much easier to analyze.
+I began by reviewing the dataset and removing irrelevant data to focus only on the information related to sign language. To do this, I used the find tool (command + F) to search for every row that mentioned sign language and deleted all other entries. This reduced the dataset to only the relevant data, which made it much easier to analyze.
 
-After deleting all unnecessary rows and columns, I used Google Sheets Data Clean Up Suggestions to remove extra whitespace from cells. This automatically applied the TRIM function to the relevant cells, ensuring that there were no trailing spaces that could cause issues in later analysis.
+After deleting all unnecessary rows and columns, I used Google Sheets’ Data Clean Up Suggestions to remove extra whitespace from cells. This automatically applied the TRIM function to the relevant cells, ensuring that there were no trailing spaces that could cause issues in later analysis.
 
-Next, I decided to transpose the data to make it easier to interpret. Originally the dataset had wards listed across columns and sign languages listed across rows. To switch their positions, I used the TRANSPOSE function (=TRANSPOSE(A1:Y5)), which swaps rows and columns.
+Next, I decided to transpose the data to make it easier to interpret. Originally, the dataset had wards listed across columns and sign languages listed across rows. To switch their positions, I used the TRANSPOSE function (=TRANSPOSE(A1:Y5)), which swaps rows and columns.
 
 The names in the dataset were long, including the suffix “ - Ward”. To simplify them, I used the SPLIT function (=SPLIT(A2; “ - Ward”) to separate the text into two columns and then deleted the extra portion, leaving only the ward name.
 
@@ -80,21 +80,22 @@ Here is what the dataset looked like after being cleaned:
 
 ### 3.3. Exploratory Data Analysis (EDA)
 
-I made a pivot table that shows the sum of all signers across each ward in Ottawa, along with the sum of just the ASL and QSL signers, in order to see which wards have the highest number of total signers, as well as compare the amount of ASL and QSL signers there are in each ward. If certain wards stand out, that might suggest that the deaf community participation could indeed influence residential clustering.
+I made a pivot table that shows the sum of all signers across each ward in Ottawa, along with the specific sum of just the ASL and QSL signers, in order to see which wards have the highest number of total signers, as well as compare the number of ASL and QSL signers there are in each ward. If certain wards stand out, that might suggest that the deaf community participation could indeed influence residential clustering.
 
 ![](signers-pivot-table-screen-capture.png)<br>
 *Figure 2: This pivot table shows the sum of all signers across each ward in Ottawa*
 
-After taking the pivot table and turning it into a column chart, it’s fairly easy to see how signers are distributed across wards in the city of Ottawa. The chart shows that signers are spread throughout the city, with totals ranging from 45 to 135 people per ward. The highest numbers appear in Alta-Vista, Knoxdale-Merivale, and Rideau-Vanier, while the lowest are in Capital and West Carleton-March. The data also shows that Ottawa is mainly ASL-dominant, with only 5 wards reporting QSL signers. 
+After taking the pivot table and turning it into a column chart, it’s fairly easy to see how signers are distributed across wards in the city of Ottawa. The chart shows that signers are spread throughout the city, with totals ranging from 45 to 135 people per ward. The highest numbers appear in Alta-Vista, Knoxdale-Merivale, and Rideau-Vanier, while the lowest are in Capital and West Carleton-March. The data also shows that Ottawa is mainly ASL-dominant, with only 5 wards reporting QSL signers and many wards having small populations of users of other Sign Languages. 
+ 
 
 ![](signers-distribution-chart.png)<br>
 *Figure 3: This exploratory chart shows how signers are distributed throughout Ottawa*
 
-Through this analysis, I learned that signing populations are not evenly distributed across Ottawa and that language type (ASL vs. QSL) could potentially play a role in how communities are formed. I also learned that visual tools such as pivot tables and charts make it easier to spot patterns and think critically about what might cause them.
+Through this analysis, I learned that signing populations are not evenly distributed across Ottawa and that language type (ASL vs. QSL vs. Indigenous or other Sign Languages) could potentially play a role in how communities are formed. I also learned that visual tools such as pivot tables and charts make it easier to spot patterns and think critically about what might cause them.
 
-The potential story here is that certain wards might have stronger Deaf or signing communities, possibly because of access to community services, schools or networks that support sign language users. The fact that QSL is only present in 5 wards could suggest that there are localized french deaf communities, while the overall dominance of ASL points to broader accessibility and use across the city.
+The potential story here is that certain wards might have stronger Deaf or signing communities, possibly because of access to community services, schools or networks that support sign language users. The fact that QSL is only present in 5 wards could suggest that there are localized French Deaf communities, while the overall dominance of ASL points to broader accessibility and use across the city.
 
-For next steps, it would be useful to compare these totals to each ward’s overall population to see if the high counts actually represent larger deaf communities or just larger ward populations. Calculation signers per capita could reveal stronger concentration patterns. It may also be worth exploring demographic or geographic factors, like proximity to schools for the Deaf or community centers, to understand why certain wards have higher totals.
+For next steps, it would be useful to compare these totals to each ward’s overall population to see if the high counts actually represent larger Deaf communities or just larger ward populations. Calculating signers per capita could reveal stronger concentration patterns. It may also be worth exploring demographic or geographic factors, like proximity to schools for the Deaf or community centers, to understand why certain wards have higher totals.
 
 
 ## 4. Potential Story
