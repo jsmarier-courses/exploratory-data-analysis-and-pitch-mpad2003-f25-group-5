@@ -99,17 +99,15 @@ For next steps, it would be useful to compare these totals to each ward’s over
 
 ## 4. Potential Story
 
-The potential story that we could tell with this data is that certain wards might have larger deaf communities due to access to support structures, such as schools or community networks for the deaf. In order to “tell” this story, we would likely need other resources such as maps of support centers for the deaf, testimony from involved individuals, and possibly statistics from sources such as the city website. 
+The potential story that we could tell with this data is that certain wards might have larger Deaf communities due to access to support structures, such as schools or community networks for the Deaf. In order to “tell” this story, we would likely need other resources such as maps of support centers for the Deaf, testimony from involved individuals, and possibly statistics from sources such as the city website. 
 
-For the testimony we could interview members of the deaf community who live in districts with a large number of deaf people in them to see what they find appealing about the area,, or conversely we could interview in smaller communities to see what they feel is lacking. We could also interview people who work at support centers or schools for the deaf in order to see what they feel they do to make the area attractive. We could also interview the head of the ASL minor at Carleton, who used to be the head of the Ontario Association for the Deaf.
+For testimony, we could interview members of the Deaf community who live in districts with a large number of Deaf people in them to see what they find appealing about the area, or conversely, we could interview in smaller communities to see what they feel is lacking. We could also interview people who work at support centers or schools for the Deaf in order to see what they feel they do to make the area attractive. We could also interview Denise DeShaw,  who used to be the head of the Ontario Association for the Deaf (OAD) and is currently the head of the ASL program at Carleton.
 
-There are also many online resources that can help provide more context to the story, such as news articles, studies, or city releases from the area. This additional context and data could help flesh out and verify the story, allowing it to be more clear and have a larger impact. Some potential sources that could match this criteria are:
+Many online resources can help provide more context to the story, such as news articles, studies, or city releases from the area. This additional context and data could help us flesh out, verify and add a personal touch to the story. This allows it to be clearer and more impactful. Some potential sources that could align with these criteria are:
 
-An article about trying to get sign language recognized as an official Canadian language in Ottawa: https://capitalcurrent.ca/ottawas-deaf-community-calls-for-official-recognition-of-sign-language/
-
-An article about an event recognizing Ottawa’s deaf community on Parliament Hill: https://charlatan.ca/ottawa-raises-deaf-flag/
-
-An article about opportunities in education for the deaf in Ottawa: https://www.ocdsb.ca/programs-learning/special-education/special-education-elementary/elementary-special-education/deaf-hh 
+An article about Ottawan Deaf advocacy for sign languages to be recognized as official Canadian languages in Ottawa before it was recognized under the Accessible Canada Act in 2019: https://capitalcurrent.ca/ottawas-deaf-community-calls-for-official-recognition-of-sign-language/
+An article about an event recognizing Ottawa’s Deaf community on Parliament Hill during International Week of Deaf People (IWDP): https://charlatan.ca/ottawa-raises-deaf-flag/
+An article about opportunities in education for the Deaf in Ottawa: https://www.ocdsb.ca/programs-learning/special-education/special-education-elementary/elementary-special-education/deaf-hh 
 
 ## 5. Conclusion
 
