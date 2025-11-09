@@ -58,15 +58,17 @@ This also shows how to create an ordered list. Simply put `1.` before each item.
 
 ### VIMO Analysis
 
-Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.
+<!--Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.-->
 
-Insert text here.
+For our VIMO analysis, we’re looking specifically at rows 1407 - 1410 of the original data set. Overall, the totals appear to be inconsistent with the specific data. For example, when totalling C1407:Z14:07, which should represent all of the data for the city’s “total - Knowledge of languages for the population in private households,” the number differs from the total in B14:07 by 10. This isn’t a massive discrepancy, but it is especially troubling, given that this data was collected at a sample level and therefore could be exaggerating or exacerbating the scale of discrepancies that would be seen with a complete population survey.
 
-Support your claims by citing relevant sources. Please follow [APA guidelines for in-text citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
+However, as this is government data which was collected for Canada’s 2021 Census, we have a high degree of confidence in its accuracy. The government of Canada notes that to ensure its accuracy via ensuring participation, it will contact “non‑respondent households at key times to remind them to participate in the census and persuade them to complete the questionnaire” (Statistics Canada, 2021). They also adapted their approach for collecting data due to safety concerns caused by the COVID-19 pandemic. They primarily opted for an online questionnaire, alongside other options for those who needed access to them, which showed “many advantages: it increases the number of online responses, a mode that facilitates the flow of questions and real-time response edits; and it reduces non-response, the need for costly follow-up, and the number of questionnaires to register and the amount of data to capture. In the end, it increases the quality of the census” (Statistics Canada, 2021). All of which support the accuracy of the data and help prevent missing, outlying or incorrect entries in the data published.
+
+<!-- Support your claims by citing relevant sources. Please follow [APA guidelines for in-text citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
 
 **For example:**
 
-As Cairo (2016) argues, a data visualization should be truthful...
+As Cairo (2016) argues, a data visualization should be truthful... -->
 
 ### Cleaning Data
 
@@ -134,6 +136,4 @@ Grieve, N. (2024, May 4). Convert rows to columns in Google Sheets[Video]. YouTu
 
 Jean-Sébastien, M. (2021, October 19). Using Pivot Tables in Google Sheets[Video]. YouTube. https://youtu.be/cCVl0h-9HmU?si=hLPD51qubB8fzC_x 
 
-
-
-
+Statistics Canada. (2021). Coverage Technical Report, Census of Population, 2021: 4. Census data collection. Statcan.gc.ca; Government of Canada. https://www12.statcan.gc.ca/census-recensement/2021/ref/98-303/2021001/chap4-eng.cfm
